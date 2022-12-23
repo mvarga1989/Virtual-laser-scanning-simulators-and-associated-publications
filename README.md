@@ -1,4 +1,5 @@
 # Virtual laser scanning simulators and associated publications
+Source: WINIWARTER, Lukas, et al. Virtual laser scanning with HELIOS++: A novel take on ray tracing-based simulation of topographic full-waveform 3D laser scanning. Remote Sensing of Environment, 2022, 269: 112772.
 
 |          **Publication**          |    **Platforms**    | **Beam div.** | **FWF** | **Scene** |                            **Comments**                           |
 |:---------------------------------:|:-------------------:|:-------------:|:-------:|:---------:|:-----------------------------------------------------------------:|
@@ -20,3 +21,4 @@
 | Gastellu-Etchegorry et al. (2015) | satellite, ALS, TLS | ✓             | ✓       | 3D        | DART model                                                        |
 | Bechtold and Höfle (2016)         | ALS, TLS, MLS, ULS  | ✓             | ✓       | 3D        | HELIOS                                                            |
 | Dayal et al. (2021)               | ALS                 |               |         | 3D        | Limulator 4.0                                                     |
+| Winiwarter et al. (2022)          | ALS, TLS, MLS, ULS  | ✓              |✓         | 3D        | Helios++                                                  |
