@@ -1,6 +1,8 @@
 # Virtual laser scanning simulators and associated publications
 Source: WINIWARTER, Lukas, et al. Virtual laser scanning with HELIOS++: A novel take on ray tracing-based simulation of topographic full-waveform 3D laser scanning. Remote Sensing of Environment, 2022, 269: 112772.
 
+Table 1. Overview of virtual laser scanning simulators and associated publications. For each simulator, a check mark (✓) is added if they support simulation of finite (non-zero) beam divergence (“Beam div.”) and full waveforms (“FWF”). Scene representation may be in full 3D or 2.5D, i.e., raster-based.
+
 |          **Publication**          |    **Platforms**    | **Beam div.** | **FWF** | **Scene** |                            **Comments**                           |
 |:---------------------------------:|:-------------------:|:-------------:|:-------:|:---------:|:-----------------------------------------------------------------:|
 | North (1996), North et al. (2010) | satellite           | ✓             | ✓       | 3D        | FLIGHT model                                                      |
